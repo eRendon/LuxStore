@@ -11,7 +11,7 @@
         </div>
         <span class="font-bold text-slate-900 dark:text-white">LuxeStore</span>
       </div>
-      <p class="text-sm text-slate-500">© 2024 LuxeStore. Built for modern shopping experiences.</p>
+      <p class="text-sm text-slate-500">© 2026 LuxeStore. Built for modern shopping experiences. erendoncc@gmail.com</p>
     </div>
   </footer>
 </template>

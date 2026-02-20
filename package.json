@@ -1,6 +1,7 @@
 {
-  "name": "vue-project",
+  "name": "lux-store",
   "version": "0.0.0",
+  "description": "Una tienda moderna construida con Vue 3 y Tailwind",
   "private": true,
   "type": "module",
   "scripts": {
